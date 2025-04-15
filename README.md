@@ -7,4 +7,5 @@
 ## Bibliotecas
 
 * [Auth.js](https://authjs.dev/) - Biblioteca de Autenticacao para Nextjs
-* [Firebase Admin]() - 
+* [Firebase Admin](https://www.npmjs.com/package/firebase-admin) - 
+* [Stripe](https://www.npmjs.com/package/stripe) - Biblioteca para implementar gateway da pagamento stripe
